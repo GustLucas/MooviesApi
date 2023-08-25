@@ -14,3 +14,6 @@ Aprendi também boas práticas de como usar DTOs. Como criar DTOs para criação
 Aprendi a configurar a aplicação através do appsettings.json. Como informações que serão carregadas em tempo de execução ou no momento de inicialização da aplicação.
 
 Este foi o projeto feito duranto o Curso ".Net 6: Criando uma web API" da Alura!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430EBE&height=120&section=footer"/>
+    
